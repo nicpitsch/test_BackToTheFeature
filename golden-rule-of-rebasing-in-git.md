@@ -8,3 +8,6 @@ So, what is rebasing, and how do you rebase in Git? Rebasing is simply taking ch
 **The Golden Rule of Rebasing reads: “Never rebase while you’re on a public branch.”**
 
 You’re in fact, changing the commit history, which Doc taught us could have disastrous consequences. (Especially if you run into your future self.)
+
+## The Timeline
+I made a new repo in GitKraken, a cross-platform Git GUI, featuring some main plot points from Back to the Future. First, Marty is sent back to 1985. You’ll see I created a new timeline branch that has a couple of commits representing the events that follow. Then, I pushed the timeline branch up to GitHub.
